@@ -1,0 +1,13 @@
+{
+    "rreferer": "RANDOM", 
+    "rdelay": "0", 
+    "threads": "5", 
+    "rhost": "NONE", 
+    "rxclient": "on", 
+    "ruseragent": "RANDOM", 
+    "rproxy": "NONE", 
+    "rtimeout": "10", 
+    "rxforw": "on", 
+    "rretries": "1", 
+    "rssl": "off"
+}
